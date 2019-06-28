@@ -1,0 +1,24 @@
+{
+  "name": "go-gizmo",
+  "version": "1.0.0",
+  "description": "little gremilin made with love",
+  "main": "gizmo.app.js",
+  "scripts": {
+    "test": "echo 'sorry, there is no test :<'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gedhean/gizmo.git"
+  },
+  "keywords": [
+    "gremilin",
+    "gizmo",
+    "gocase"
+  ],
+  "author": "Gêdhean Alves Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gedhean/gizmo/issues"
+  },
+  "homepage": "https://github.com/gedhean/gizmo#readme"
+}
