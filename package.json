@@ -1,6 +1,6 @@
 {
   "name": "go-gizmo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "little gremilin made with love",
   "main": "gizmo.app.js",
   "scripts": {
